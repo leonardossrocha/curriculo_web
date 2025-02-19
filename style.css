@@ -1,5 +1,19 @@
-/* Arquivo de estilo do projeto */
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+/* Configura o cabeçalho do projeto */
+header{
 
-h1{
-    color: red;
+}
+
+/* Configura foto do curriculo */
+.foto-perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
 }
