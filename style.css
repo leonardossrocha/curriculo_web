@@ -7,7 +7,10 @@ body{
 }
 /* Configura o cabeçalho do projeto */
 header{
-
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
 
 /* Configura foto do curriculo */
