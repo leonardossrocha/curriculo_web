@@ -1,14 +1,14 @@
-/* Arquivo de estilo do projeto */
-
 body{
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
 }
-
-/* Estilo de cabeçalho */
+/* Configura o cabeçalho do projeto */
 header{
-    
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
