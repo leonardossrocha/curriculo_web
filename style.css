@@ -7,8 +7,23 @@ body{
 }
 /* Configura o cabeçalho do projeto */
 header{
-    background: #222;
+    background-color: #222;
     color: white;
     padding: 20px;
     text-align: center;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* Trabalho o estilo na imagem do curriculo */
+.foto-perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
 }
